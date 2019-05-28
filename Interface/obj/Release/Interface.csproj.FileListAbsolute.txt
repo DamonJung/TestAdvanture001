@@ -1,0 +1,8 @@
+E:\ResearchJob\Interface\bin\Release\Interface.dll
+E:\ResearchJob\Interface\bin\Release\Interface.pdb
+E:\ResearchJob\DLLPath\Interface.dll
+E:\ResearchJob\DLLPath\Interface.pdb
+E:\ResearchJob\Interface\obj\Release\Interface.csprojAssemblyReference.cache
+E:\ResearchJob\Interface\obj\Release\Interface.csproj.CoreCompileInputs.cache
+E:\ResearchJob\Interface\obj\Release\Interface.dll
+E:\ResearchJob\Interface\obj\Release\Interface.pdb

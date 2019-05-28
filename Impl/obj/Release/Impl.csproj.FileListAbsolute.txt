@@ -1,0 +1,11 @@
+E:\ResearchJob\Impl\bin\Release\Impl.dll
+E:\ResearchJob\Impl\bin\Release\Impl.pdb
+E:\ResearchJob\Impl\bin\Release\Interface.dll
+E:\ResearchJob\Impl\bin\Release\Interface.pdb
+E:\ResearchJob\Impl\obj\Release\Impl.csproj.CoreCompileInputs.cache
+E:\ResearchJob\DLLPath\Impl.dll
+E:\ResearchJob\DLLPath\Impl.pdb
+E:\ResearchJob\Impl\obj\Release\Impl.csproj.CopyComplete
+E:\ResearchJob\Impl\obj\Release\Impl.dll
+E:\ResearchJob\Impl\obj\Release\Impl.pdb
+E:\ResearchJob\Impl\obj\Release\Impl.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\ResearchJob\Executor\obj\Debug\Executor.csprojAssemblyReference.cache
+E:\ResearchJob\Executor\obj\Debug\Executor.csproj.CoreCompileInputs.cache
+E:\ResearchJob\Executor\bin\Debug\Executor.exe.config
+E:\ResearchJob\Executor\bin\Debug\Executor.exe
+E:\ResearchJob\Executor\bin\Debug\Executor.pdb
+E:\ResearchJob\Executor\obj\Debug\Executor.exe
+E:\ResearchJob\Executor\obj\Debug\Executor.pdb
+E:\ResearchJob\Executor\bin\Debug\ContainerRegister.dll
+E:\ResearchJob\Executor\bin\Debug\ContainerRegister.pdb
+E:\ResearchJob\Executor\bin\Debug\SimpleInjector.xml
+E:\ResearchJob\Executor\obj\Debug\Executor.csproj.CopyComplete
+E:\ResearchJob\Executor\bin\Debug\Interface.dll
+E:\ResearchJob\Executor\bin\Debug\Interface.pdb
+E:\ResearchJob\Executor\bin\Debug\Impl.dll
+E:\ResearchJob\Executor\bin\Debug\Impl.pdb

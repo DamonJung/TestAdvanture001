@@ -1,0 +1,14 @@
+E:\ResearchJob\Executor\obj\Release\Executor.csprojAssemblyReference.cache
+E:\ResearchJob\Executor\obj\Release\Executor.csproj.CoreCompileInputs.cache
+E:\ResearchJob\Executor\bin\Release\Executor.exe.config
+E:\ResearchJob\Executor\bin\Release\Executor.exe
+E:\ResearchJob\Executor\bin\Release\Executor.pdb
+E:\ResearchJob\Executor\bin\Release\ContainerRegister.dll
+E:\ResearchJob\Executor\bin\Release\Interface.dll
+E:\ResearchJob\Executor\bin\Release\Interface.pdb
+E:\ResearchJob\Executor\bin\Release\ContainerRegister.pdb
+E:\ResearchJob\Executor\obj\Release\Executor.csproj.CopyComplete
+E:\ResearchJob\Executor\obj\Release\Executor.exe
+E:\ResearchJob\Executor\obj\Release\Executor.pdb
+E:\ResearchJob\Executor\bin\Release\Impl.dll
+E:\ResearchJob\Executor\bin\Release\Impl.pdb

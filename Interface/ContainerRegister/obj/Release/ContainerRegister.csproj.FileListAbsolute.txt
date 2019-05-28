@@ -1,0 +1,13 @@
+E:\ResearchJob\Interface\ContainerRegister\bin\Release\ContainerRegister.dll
+E:\ResearchJob\Interface\ContainerRegister\bin\Release\ContainerRegister.pdb
+E:\ResearchJob\Interface\ContainerRegister\bin\Release\SimpleInjector.dll
+E:\ResearchJob\Interface\ContainerRegister\bin\Release\SimpleInjector.xml
+E:\ResearchJob\Interface\DLLPath\ContainerRegister.dll
+E:\ResearchJob\Interface\DLLPath\ContainerRegister.pdb
+E:\ResearchJob\DLLPath\ContainerRegister.dll
+E:\ResearchJob\DLLPath\ContainerRegister.pdb
+E:\ResearchJob\Interface\ContainerRegister\obj\Release\ContainerRegister.csprojAssemblyReference.cache
+E:\ResearchJob\Interface\ContainerRegister\obj\Release\ContainerRegister.csproj.CoreCompileInputs.cache
+E:\ResearchJob\Interface\ContainerRegister\obj\Release\ContainerRegister.csproj.CopyComplete
+E:\ResearchJob\Interface\ContainerRegister\obj\Release\ContainerRegister.dll
+E:\ResearchJob\Interface\ContainerRegister\obj\Release\ContainerRegister.pdb
